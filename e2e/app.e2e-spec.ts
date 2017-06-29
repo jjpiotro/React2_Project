@@ -1,10 +1,10 @@
-import { AngularTourOfHeroesPage } from './app.po';
+import { AngularBestMoviesEverPage } from './app.po';
 
 describe('angular-tour-of-heroes App', () => {
-  let page: AngularTourOfHeroesPage;
+  let page: AngularBestMoviesEverPage;
 
   beforeEach(() => {
-    page = new AngularTourOfHeroesPage();
+    page = new AngularBestMoviesEverPage();
   });
 
   it('should display welcome message', () => {
